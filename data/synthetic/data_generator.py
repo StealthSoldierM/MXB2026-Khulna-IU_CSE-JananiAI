@@ -467,9 +467,6 @@ def main():
     print("  4. Share findings without privacy restrictions")
     print("="*60)
 
-
-# This is the Python idiom for "only run this code if this file is executed directly"
-# (not if it's imported as a module)
 if __name__ == "__main__":
     main()
 
