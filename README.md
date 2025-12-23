@@ -2,13 +2,12 @@
 # :cherry_blossom: JananiAI - AI Maternal Health Companion :cherry_blossom: 
 :stethoscope: We Heal You with Empathetic, Evidence-Informed Guidance :stethoscope:
 
-> [!INFO]
 > :baby: Still in Development, not Ready for Scale!! :baby:
 
 # Table of Content
 <span> <ul>
     <li> <a href="#quick-start">Quick Start</a> </li>
-    <li> ,a href="#tech-used">Tech Used</a> </li>
+    <li> <a href="#tech-used">Tech Used</a> </li>
 </ul> </span>
 
 # Quick Start
@@ -23,12 +22,30 @@ optimized assets
 
 # Tech Used
 
+| Technology | Icon |
+|------------|------|
+| HTML       | ![HTML](https://simpleicons.org/icons/html5.svg) |
+| CSS        | ![CSS](https://simpleicons.org/icons/css3.svg) |
+| JavaScript | ![JavaScript](https://simpleicons.org/icons/javascript.svg) |
+| FastAPI    | ![FastAPI](https://fastapi.tiangolo.com/img/logo.png) |
+| Supabase   | ![Supabase](https://supabase.io/images/supabase-logo-dark.svg) |
+| Gemini API | ![Gemini API](https://www.gstatic.com/devrel-devsite/prod/v2/images/gemini_logo.svg) |
+
 <a href="#table-of-content">Back to Top</a>
 
-# Contributors
+# :handshake: Contributing :handshake:
 
+# :busts_in_silhouette: Contributors :busts_in_silhouette:
+|  |  |
+|--|--|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
 
-# Contribution Guides
-
+<a href="#table-of-content">Back to Top</a>
 
 # license
+
+<a href="#table-of-content">Back to Top</a>
+
