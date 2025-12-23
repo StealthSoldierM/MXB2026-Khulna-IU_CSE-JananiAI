@@ -35,17 +35,21 @@ optimized assets
 
 # :handshake: Contributing :handshake:
 
+We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started on making contributions to the project.
+
+<a href="#table-of-content">Back to Top</a>
+
 # :busts_in_silhouette: Contributors :busts_in_silhouette:
 |  |  |
 |--|--|
-|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
-|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
-|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
-|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|![Avater1](https://avatars.githubusercontent.com/u/195792012?v=4&s=96)<br>[Mofazzal Hosen](https://github.com/StealthSoldierM)|
 
 <a href="#table-of-content">Back to Top</a>
 
-# license
+# :roll_up: license :roll_up:
 
+This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE) file for more details.
 <a href="#table-of-content">Back to Top</a>
-
