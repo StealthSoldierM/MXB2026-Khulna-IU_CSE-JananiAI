@@ -5,6 +5,7 @@
      - [ ] team bio update
 - [ ] system design document
     - [ ] t
+- [x] prepare image assets
 
 
 # In Plan
