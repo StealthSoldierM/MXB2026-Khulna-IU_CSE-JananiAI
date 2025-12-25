@@ -1,3 +1,5 @@
 data/BDIR7R/*
 /BDIR7R/
 data/synthetic/.env
+src/app/.env
+src/app/__pycache__/
