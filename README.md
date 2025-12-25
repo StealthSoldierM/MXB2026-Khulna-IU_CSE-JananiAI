@@ -15,6 +15,7 @@
 ## Live Link
 
 ## Images - POC
+![frontend-hot](./assets/shot.png)
 
 ## Animated - POC
 demo imgs, animations, links, as columns aka tables
