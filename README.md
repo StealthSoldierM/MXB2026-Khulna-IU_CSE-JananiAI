@@ -42,21 +42,21 @@ optimized assets
 
 # :handshake: Contributing :handshake:
 
-We welcome contributions! Please read our [contributing guidelines](CONTRIBUTING.md) to get started on making contributions to the project.
+We welcome contributions! Please read our [contributing guidelines](./CONTRIBUTING.md) to get started on making contributions to the project.
 
 <a href="#table-of-contents">Back to Top</a>
 
 # :busts_in_silhouette: Contributors :busts_in_silhouette:
 |  |  |
 |--|--|
-|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|
-|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|
-|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="96" height="96"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|
+|<img alt="Avater1" src="https://avatars.githubusercontent.com/u/195792012?v=4" width="48" height="48"> <br> [Mofazzal Hosen](https://github.com/StealthSoldierM)|<img alt="Avater2" src="https://avatars.githubusercontent.com/u/204323259?v=4" width="48" height="48"> <br> [S. M. Fayez Ahmed](https://github.com/Fayez7075)|
+|<img alt="Avater3" src="https://avatars.githubusercontent.com/u/180735589?v=4" width="48" height="48"> <br> [Nayem Hasan Bijoy](https://github.com/bijoy51)|<img alt="Avater4" src="https://avatars.githubusercontent.com/u/66604627?v=4" width="48" height="48"> <br> [Farhan Wahid](https://github.com/wahidfarhan)|
+|<img alt="Avater5" src="https://avatars.githubusercontent.com/u/188789259?v=4" width="48" height="48"> <br> [Samia Akhand](https://github.com/sami800435)|
 
 <a href="#table-of-contents">Back to Top</a>
 
 # :scroll: License :scroll:
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for more details.
 
 <a href="#table-of-contents">Back to Top</a>

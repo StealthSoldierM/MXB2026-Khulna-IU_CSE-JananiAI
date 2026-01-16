@@ -3,3 +3,6 @@ data/BDIR7R/*
 data/synthetic/.env
 src/app/.env
 src/app/__pycache__/
+*.typ
+*.pdf
+Million*.md
